@@ -1,5 +1,5 @@
 # TWiT-cache
-Script that caches requests to the TWiT API to avoid exceding the requests-per-minute limit.
+Script that caches requests to the TWiT API to avoid exceeding the requests-per-minute limit.
 
 The idea was to use it for developing in a Roku, where it is not possible to configure a proxy server.
 
